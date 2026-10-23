@@ -9,8 +9,8 @@
 - **Description:** [This dataset contains information about the Brazilian ecommerce store known as Olist. This dataset contains information of nearly 100.000 orders from 2016 to 2018 made at multiple online marketplaces in Brazil. The multiple files in this dataset contain detailed information about the order status, price, customers, products, and location.]
 
 ## Tools Used
-- MySQL (JOINS, aggregation, date formatting, and ORDER BY)
-- Tableau — interactive dashboard containing graphs that allow for easy visualization of revenue trends by season, location, and product category.
+- MySQL - JOINS, aggregation, date formatting, and ORDER BY
+- Tableau - interactive dashboard containing graphs that allow for easy visualization of revenue trends by season, location, and product category.
 
 ## Key Findings
 1. [Computers were the product category that brought in the most revenue.]
